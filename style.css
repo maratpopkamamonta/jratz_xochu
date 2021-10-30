@@ -1,0 +1,33 @@
+h1 {
+  color: hsla(hue, saturation, lightness, alpha);
+}
+p {
+  color: rosybrown;
+}
+.goldenrod {
+  color: goldenrod;
+}
+body {
+  background-image: url(img/nyaw.jpg);
+}
+.menu {
+  list-style-type: none;
+  padding: 0px;
+  text-align: center;
+  overflow: hidden;
+}
+.menu li {
+  width: 200px;
+  float: left;
+  background-color: rgb(214, 107, 179);
+  border: 1px solid crimson;
+}
+.menu li a {
+  text-decoration: none;
+  color: rgb(0, 255, 234);
+  text-shadow: rgb(47, 0, 255) 2px 2px 0;
+  font: 20px Arial Black;
+}
+.menu li a:hover {
+  color: crimson;
+}

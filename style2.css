@@ -1,0 +1,12 @@
+h1 {
+    color: hsla(hue, saturation, lightness, alpha);
+  }
+  p {
+    color: rosybrown;
+  }
+  .goldenrod {
+      color: goldenrod;
+  }
+  body{
+      background-image: url(img/mqdefault.jpg)
+  }
